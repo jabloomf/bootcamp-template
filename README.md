@@ -6,7 +6,7 @@
 
 Welcome to the bootcamp template. This project is a template that anyone can leverage to build an onboarding bootcamp of their own.
 
-You can reference any
+You can reference any code in this project to build your own bootcamp for your project or service.
 
 ### Lesson Structure
 
